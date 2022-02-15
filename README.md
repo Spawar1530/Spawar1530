@@ -23,9 +23,9 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 
 **About Me!**
 
-- 👨🏽‍💻 I’m chemical engineering graduate with knowledge of web development. 
-- 🌱 I’m currently exploring Javascript with a big interest in Data Structures and Algorithms and React JS. 
-- 🤔 My interest lies in front end web development.
+- 👨🏽‍💻 I’m software developer with knowledge of web development. 
+- 🌱 I’m currently exploring Javascript with a big interest in Node JS, Express Js and React JS. 
+- 🤔 My interest lies in web development.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [suraj.pawar@outlook.in](mailto:suraj.pawar@outlook.in).
 
